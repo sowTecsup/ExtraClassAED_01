@@ -52,7 +52,7 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
-*.cs.meta
+*.cs.meta #THE ONLY CASE THIS IS USEFULL IS WHEN YOU ONLY WANT TO SAVE THE SCRIPT AND NOT THE OBJECTS
 
 # Unity3D generated file on crash reports
 sysinfo.txt
